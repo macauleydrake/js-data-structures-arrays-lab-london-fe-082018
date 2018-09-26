@@ -23,6 +23,6 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-  return [drivers.split]
+  return [drivers.splice "Garfield"]
 }
 
